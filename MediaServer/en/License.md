@@ -6,17 +6,17 @@ Remember that this app will display advertisements (it uses your Internet connec
 Remember also that the advertising platform could use the device ID to suggest ads based on your interests or Internet searches.
 This application does not store any personal data, but it uses Firebase to collect statistics to help improve the application.
 From Firebase the following services are used:
--Crashlytics to collect crash information (https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms)
--Analytics (https://firebase.google.com/terms/analytics)
--Performance
+- Crashlytics to collect crash information (https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms)
+- Analytics (https://firebase.google.com/terms/analytics)
+- Performance
 
 The app also uses Admob as Advertising platform and the next networks are used:
--Admob
--Adcolony
--Facebook
--MoPub
--InMobi
--Chartboost
+- Admob
+- Adcolony
+- Facebook
+- MoPub
+- InMobi
+- Chartboost
 
 You can review the terms and conditions of each of them in the GDPR section and also The previously mentioned Firebase services. Also in case that you want to exercise your data protection rights, you must contact them as Media Server doesn't keep any data regarding to users.
 
