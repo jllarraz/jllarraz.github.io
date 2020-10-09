@@ -8,6 +8,7 @@ This application does not store any personal data, but it uses Firebase to colle
 From Firebase the following services are used:
 -Crashlytics to collect crash information (https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms)
 -Analytics (https://firebase.google.com/terms/analytics)
+-Performance
 
 The app also uses Admob as Advertising platform and the next networks are used:
 -Admob
